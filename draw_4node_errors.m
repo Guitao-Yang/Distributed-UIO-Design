@@ -1,3 +1,5 @@
+% this file is drawing the estimation errors at all 4 nodes
+
 clf;
 close all;
 %%
