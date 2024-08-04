@@ -1,4 +1,5 @@
 % this file is drawing the estimation errors at all 4 nodes
+% this is to plot not calculation
 
 clf;
 close all;
